@@ -1,9 +1,0 @@
-{
-  "id": "supercollider-plugin",
-  "name": "SuperCollider",
-  "description": "run SuperCollider within Obsidian",
-  "author": "Malcolm Braff",
-
-  "minAppVersion": "0.11.0",
-  "version": "0.0.1"
-}
