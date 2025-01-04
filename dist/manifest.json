@@ -1,6 +1,6 @@
 {
   "id": "supercollider-plugin",
-  "name": "Supercollider Plugin",
+  "name": "SuperCollider",
   "description": "run SuperCollider within Obsidian",
   "author": "Malcolm Braff",
 
