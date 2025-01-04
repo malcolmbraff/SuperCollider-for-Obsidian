@@ -1,5 +1,7 @@
 node_modules
+*.log
 .env
-*-error.log
-yarn.lock
-.npmrc
+src/
+.vscode/
+.DS_Store
+Thumbs.db
