@@ -1,0 +1,5 @@
+<script>start("/Users/malcolmbraff/supercollider-plugin/src/");</script>
+<script>onHasParentDirectory();</script>
+<script>addRow("main.ts","main.ts",0,8192,"8.0 kB",1736020638,"04/01/2025 20:57:18");</script>
+<script>addRow("styles.css","styles.css",0,633,"633 B",1735402622,"28/12/2024 17:17:02");</script>
+<script>addRow("SuperColliderLogView.ts","SuperColliderLogView.ts",0,1768,"1.7 kB",1735921646,"03/01/2025 17:27:26");</script>

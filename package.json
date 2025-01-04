@@ -1,0 +1,16 @@
+{
+  "name": "supercollider-plugin",
+  "version": "0.0.1",
+  "description": "run SuperCollider within Obsidian",
+  "main": "lib/main.js",
+  "license": "GPL-3.0-or-later",
+  "scripts": {
+    "dev": "obsidian-plugin dev src/main.ts",
+    "build": "obsidian-plugin build src/main.ts"
+  },
+  "devDependencies": {
+    "obsidian": "obsidianmd/obsidian-api",
+    "obsidian-plugin-cli": "^0.4.5",
+    "typescript": "^4.1.5"
+  }
+}
