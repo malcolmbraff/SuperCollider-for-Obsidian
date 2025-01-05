@@ -1,7 +1,7 @@
 {
   "name": "supercollider-plugin",
-  "version": "0.0.1",
-  "description": "run SuperCollider within Obsidian",
+  "version": "1.0.0",
+  "description": "run SuperCollider in Obsidian",
   "main": "lib/main.js",
   "license": "GPL-3.0-or-later",
   "scripts": {
